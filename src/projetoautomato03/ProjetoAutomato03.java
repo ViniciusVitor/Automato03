@@ -14,9 +14,7 @@ import java.util.Scanner;
  */
 public class ProjetoAutomato03 {
 
-    char cadeia[];
-    int contaA;
-    boolean resposta;
+    char cadeia[];    
 
     public static void main(String[] args) {
         ProjetoAutomato03 auto = new ProjetoAutomato03();
