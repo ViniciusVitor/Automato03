@@ -130,9 +130,9 @@ public class ProjetoAutomato03 {
                     validacao = false;
                 }
                 else if (estadoAtual == "q8") {
-                    listaEstados.add("[q9]");
-                    estadoAtual = "q9";
-                    validacao = true;
+                    listaEstados.add("[q8]");
+                    estadoAtual = "q8";
+                    validacao = false;
                 }
                 else if (estadoAtual == "q9") {
                     listaEstados.add("[q9]");
